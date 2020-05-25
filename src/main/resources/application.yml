@@ -10,3 +10,11 @@ logging:
                 eureka: 'OFF'
 server:
     port: 8083
+
+
+
+
+spring:
+  application:
+           name: Eureka Server
+
