@@ -9,7 +9,7 @@ logging:
                 discovery: 'OFF'
                 eureka: 'OFF'
 server:
-    port: 8083
+    port: 8761
 
 
 
